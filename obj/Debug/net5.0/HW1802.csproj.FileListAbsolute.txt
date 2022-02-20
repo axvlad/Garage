@@ -1,0 +1,15 @@
+/Users/macbook13/Projects/HW1802/HW1802/bin/Debug/net5.0/HW1802.deps.json
+/Users/macbook13/Projects/HW1802/HW1802/bin/Debug/net5.0/HW1802.runtimeconfig.json
+/Users/macbook13/Projects/HW1802/HW1802/bin/Debug/net5.0/HW1802.runtimeconfig.dev.json
+/Users/macbook13/Projects/HW1802/HW1802/bin/Debug/net5.0/HW1802.dll
+/Users/macbook13/Projects/HW1802/HW1802/bin/Debug/net5.0/ref/HW1802.dll
+/Users/macbook13/Projects/HW1802/HW1802/bin/Debug/net5.0/HW1802.pdb
+/Users/macbook13/Projects/HW1802/HW1802/obj/Debug/net5.0/HW1802.csproj.AssemblyReference.cache
+/Users/macbook13/Projects/HW1802/HW1802/obj/Debug/net5.0/HW1802.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook13/Projects/HW1802/HW1802/obj/Debug/net5.0/HW1802.AssemblyInfoInputs.cache
+/Users/macbook13/Projects/HW1802/HW1802/obj/Debug/net5.0/HW1802.AssemblyInfo.cs
+/Users/macbook13/Projects/HW1802/HW1802/obj/Debug/net5.0/HW1802.csproj.CoreCompileInputs.cache
+/Users/macbook13/Projects/HW1802/HW1802/obj/Debug/net5.0/HW1802.dll
+/Users/macbook13/Projects/HW1802/HW1802/obj/Debug/net5.0/ref/HW1802.dll
+/Users/macbook13/Projects/HW1802/HW1802/obj/Debug/net5.0/HW1802.pdb
+/Users/macbook13/Projects/HW1802/HW1802/obj/Debug/net5.0/HW1802.genruntimeconfig.cache
